@@ -11,4 +11,10 @@ public class test02 {
         System.out.println("测试");
         System.out.println("测试");
     }
+    public void update(){
+        int a=10;
+        int b=15;
+        System.out.println(a);
+        System.out.println(b);
+    }
 }
